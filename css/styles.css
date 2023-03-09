@@ -1,7 +1,8 @@
- .det-border h3 {
+ det-border h3 {
     background-color: lightsteelblue;
-    border-style:blue solid;
+    border-style:solid;
+    color: blue;
 }
 h1 {
-    color: orange;
+    background-color: darkorange;
 }
